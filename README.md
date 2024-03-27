@@ -9,9 +9,10 @@
 目前已经实现基础功能, 获取当前mac活动应用, 目前只配置了微信输入法, 搜狗输入法, 和mac自带的英文,中文输入法, 扩展其他输入法如下图添加即可.
 <img width="947" alt="image" src="https://github.com/ArcGalaxy/AutoInputSource/assets/164182770/89ae4998-485e-4f25-9ce9-9ad4fd2a0eaa">
 
+<!--
 ## 已知问题
 状态栏的输入法已经切换成功, 实际输入为上次的输入法，或者切换目标窗口后输入法才正确。
-
+-->
 ## 作者联系方式(添加说明来意)
 #### 邮箱：ash_mica@163.com
 #### 微信: wxid-thegalaxy
